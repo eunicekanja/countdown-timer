@@ -2,7 +2,7 @@
 const text=document.querySelectorAll('.card p')
 const cards=document.querySelectorAll('.card')
 const container=document.querySelector('.main')
-const futureDate=new Date(2022,02,7,11,30,0)
+const futureDate=new Date(2022,2,7,11,30,0)
 console.log(futureDate)
 
 const getDifference=function(){
